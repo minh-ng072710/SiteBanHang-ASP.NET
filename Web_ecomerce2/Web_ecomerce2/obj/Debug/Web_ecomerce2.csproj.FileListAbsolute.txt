@@ -1,0 +1,179 @@
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\Web_ecomerce2.dll.config
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\Web_ecomerce2.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\Web_ecomerce2.pdb
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csc.exe
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csc.exe.config
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csc.rsp
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csi.exe
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csi.rsp
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.AppContext.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\vbc.exe
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\vbc.exe.config
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\vbc.rsp
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\VBCSCompiler.exe
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\Antlr3.Runtime.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\EntityFramework.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\EntityFramework.SqlServer.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\Newtonsoft.Json.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Helpers.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Mvc.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Optimization.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Razor.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.Razor.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\WebGrease.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\EntityFramework.xml
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\EntityFramework.SqlServer.xml
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Helpers.xml
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Mvc.xml
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Optimization.xml
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Razor.xml
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.xml
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.Razor.xml
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\Newtonsoft.Json.xml
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\Antlr3.Runtime.pdb
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.csproj.CoreCompileInputs.cache
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.csproj.CopyComplete
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.dll
+C:\Users\cntt\Documents\Visual Studio 2017\Projects\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.pdb
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.csprojAssemblyReference.cache
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.csproj.CoreCompileInputs.cache
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.pdb
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\Web_ecomerce2.dll.config
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\Web_ecomerce2.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\Web_ecomerce2.pdb
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csc.exe
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csc.exe.config
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csc.rsp
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csi.exe
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csi.rsp
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.AppContext.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.Collections.Immutable.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.IO.FileSystem.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.Reflection.Metadata.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\vbc.exe
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\vbc.exe.config
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\vbc.rsp
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\VBCSCompiler.exe
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\roslyn\VBCSCompiler.exe.config
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\Antlr3.Runtime.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\EntityFramework.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\EntityFramework.SqlServer.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\Microsoft.Web.Infrastructure.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\Newtonsoft.Json.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Helpers.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Mvc.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Optimization.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Razor.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.Deployment.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.Razor.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\WebGrease.dll
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\EntityFramework.xml
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\EntityFramework.SqlServer.xml
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Helpers.xml
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Mvc.xml
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Optimization.xml
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Razor.xml
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.xml
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.Deployment.xml
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.Razor.xml
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\Newtonsoft.Json.xml
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\Antlr3.Runtime.pdb
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BC\web\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.csproj.CopyComplete
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.csprojAssemblyReference.cache
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.csproj.CoreCompileInputs.cache
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.pdb
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\Web_ecomerce2.dll.config
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\Web_ecomerce2.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\Web_ecomerce2.pdb
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csc.exe
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csc.exe.config
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csc.rsp
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csi.exe
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\csi.rsp
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.AppContext.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\vbc.exe
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\vbc.exe.config
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\vbc.rsp
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\VBCSCompiler.exe
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\Antlr3.Runtime.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\EntityFramework.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\EntityFramework.SqlServer.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\Newtonsoft.Json.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Helpers.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Mvc.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Optimization.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Razor.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.Razor.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\WebGrease.dll
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\EntityFramework.xml
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\EntityFramework.SqlServer.xml
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Helpers.xml
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Mvc.xml
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Optimization.xml
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.Razor.xml
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.xml
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\System.Web.WebPages.Razor.xml
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\Newtonsoft.Json.xml
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\Antlr3.Runtime.pdb
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cntt\Desktop\Web_ecomerce2\Web_ecomerce2\Web_ecomerce2\obj\Debug\Web_ecomerce2.csproj.CopyComplete

@@ -1,0 +1,27 @@
+﻿@model List<Web_ecomerce2.Model.SanPham>
+
+
+<div id="items">
+    @for (int i = 0; i < Model.Count(); i++)
+    {
+        if (i % 3 == 2)
+        {
+            <div class="item">
+                <img src="~/@Model[i].HA" alt="" width="202" height="173" /><br />
+                <span>@Model[i].Gia</span>
+                <a href="@Url.Action("loadchitiet","chitiet", new { id = @Model[i].MaSP },null)" class="view">View</a>
+                <a href="#" class="buy">Buy this Product</a>
+            </div>
+
+        }
+        else
+        {
+            <div class="item">
+                <img src="~/@Model[i].HA" alt="" width="202" height="173" /><br />
+                <span>@Model[i].Gia</span>
+                <a href="@Url.Action("loadchitiet","chitiet", new { id = @Model[i].MaSP },null)" class="view">View</a>
+                <a href="#" class="buy">Buy this Product</a>
+            </div>
+        }
+    }
+</div>

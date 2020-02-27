@@ -1,0 +1,10 @@
+﻿@model List<Web_ecomerce2.Model.DanhMuc>
+<div class="sidebar_section">
+  
+    <ul id="list">
+        @foreach (var dm in Model)
+        {
+            <li >@Html.ActionLink(dm.TenDanhMuc, "productlist", "danhmuc", new { iddanhmuc = dm.IdDanhMuc }, null)</li>
+        }
+    </ul>
+</div>

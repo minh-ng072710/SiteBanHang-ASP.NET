@@ -1,0 +1,13 @@
+﻿@model List<Web_ecomerce2.Model.SanPham>
+@{
+    ViewBag.Title = "loadchitiet";
+}
+
+<h2>loadchitiet</h2>
+<div class="item">
+    <h1 >@Model[0].TenSP</h1><br/>
+    <img src="~/@Model[0].HA" alt="" width="202" height="173" /><br />
+    <span style="color:red">@Model[0].Gia</span>
+    <span style="color:red">@Model[0].SL</span>
+    <a href="#" class="buy">Buy this Product</a>
+</div>
